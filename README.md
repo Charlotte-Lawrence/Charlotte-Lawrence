@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Charlotte, and I am currently a student at Lancaster University studying BSc Computer Science.\
+My name is Charlotte, and I am currently a student at Lancaster University studying BSc Computer Science.
 
-I am an aspiring software developer with interests in artificial intelligence, data, and all things tech.\
+I am an aspiring software developer with interests in artificial intelligence, data, and all things tech.
 
 You can reach me on linkedin or email, and check out my website in React here: [React Website](https://charlotte-lawrence.github.io/portfolio/).
 <!--
