@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 My name is Charlotte, and I am currently a student at Lancaster University studying BSc Computer Science.
 
