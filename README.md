@@ -1,10 +1,17 @@
 ## Hello! 👋
 
-My name is Charlotte, and I am currently a student at Lancaster University studying BSc Computer Science.
+I'm Charlotte - a Software Engineer specializing in Java, XSLT, and XML.
 
-I am an aspiring software developer/analyst with interests in artificial intelligence, data, and all things tech.
+I recently graduated from Lancaster University with a high 2:1 in BSc Computer Science. My interests include Formula 1, artificial intelligence, data, and all things tech.
 
-You can reach me on linkedin or email, and check out my website in React here: [React Website](https://charlotte-lawrence.github.io/portfolio/).
+I'm proud to have been the company Hackathon Winner for Best AI Solution, showcasing my passion for creating impactful, intelligent systems.
+
+Feel free to connect with me:  
+
+📧 [Email](mailto:chyneekee01@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/charlotte-c-lawrence/)  
+🌐 [My (slightly outdated) React-based website](https://charlotte-lawrence.github.io/portfolio/)  
+
 <!--
 **Charlotte-Lawrence/Charlotte-Lawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
